@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvazaki&label=Profile%20views&color=0e75b6&style=flat" alt="arvazaki" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **arvazakifanadzan@gmail.com**
 
