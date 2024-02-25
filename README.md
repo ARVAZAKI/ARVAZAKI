@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img align="right" alt="coding" width="350" src="https://h2.gifposter.com/gifs/wow/Don't-interrupt-programming.gif">
 
-I'm an Informatics Engineering Student at Elechronic Engineering Polythecnic Institute of Surabaya<br>
+I'm an Informatics Engineering Student at Electronic Engineering Polythecnic Institute of Surabaya<br>
 
 
 
