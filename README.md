@@ -3,7 +3,7 @@
 
 I'm an Informatics Engineering Student at Electronic Engineering Polythecnic Institute of Surabaya<br>
 
- 
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vazakii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arvazakifanadzan) 
